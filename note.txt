@@ -6,3 +6,9 @@ git reset --hard *** HEAD^ HEAD^^ 版本回退
 git reflog 命令记录
 git checkout -- *** 删除工作区
 git rm
+git branch查看分支
+git branch ** 建立分支
+git checkout -b ** 创建并切换分支
+git checkout -d ** 删除
+git checkout ** 转到某分支
+git merge ** 合并分支
