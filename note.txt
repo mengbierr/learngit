@@ -5,3 +5,4 @@ git diff
 git reset --hard *** HEAD^ HEAD^^ 版本回退
 git reflog 命令记录
 git checkout -- *** 删除工作区
+git rm
